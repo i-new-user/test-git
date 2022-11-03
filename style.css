@@ -11,7 +11,7 @@ body{
 
 .wrapper{
     display: flex;
-    align-items: cencter;
+    align-items: center;
     width: 100wh;
     height: 100vh;
 }
