@@ -1,3 +1,3 @@
 let wrapper = document.querySelector('.wrapper');
-wrapper.innerHTML ='<h1>test git</h1>';
+wrapper.innerHTML ='<h1>This new text</h1>';
 
