@@ -1,0 +1,6 @@
+.main{
+    flex: 1 0 auto;
+    display: flex;
+    min-width: 100vw;
+    border: 2px solid rgb(237, 44, 44);
+}

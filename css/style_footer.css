@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+    min-height: 20vh;
+    border: 2px solid rgb(237, 44, 44);
+}
