@@ -1,20 +1,22 @@
 .header{
   display: flex;
-  min-height: 15vh;
+  min-height: 15gitvh;
   width: 100vw;
   border-bottom: 2px solid rgb(237, 44, 44);
 }
 .header_left{
     display: flex;
     justify-content: center;
+    align-content: center;
     width: 50%;
-    
+
     border-bottom: 2px solid rgb(237, 44, 44);
 }
 .header_right{
     display: flex;
     justify-content: center;
+    align-content: center;
     width: 50%;
-    
+    font-size: 22px;
     border-bottom: 2px solid rgb(237, 44, 44);
 }
